@@ -1,6 +1,6 @@
 /* 
-	* L298N Sürücü Kartı
-	* 12V DC Motor
+	* 1 - L298N Sürücü Kartı
+	* 2 - 12V DC Motor
 */
 
 #include <SPI.h>

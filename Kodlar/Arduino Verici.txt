@@ -1,5 +1,7 @@
 /*
-        DIY Arduino based RC Transmitter
+    DIY Arduino based RC Transmitter Project
+              == Transmitter Code ==
+
   by Dejan Nedelkovski, www.HowToMechatronics.com
   Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 */
